@@ -1,7 +1,6 @@
 # Titanic_analysis
-Here’s a draft for a **README.md** file based on the Titanic dataset analysis. It includes insights and solutions sections tailored for a typical survival prediction project.
 
----
+
 
 ## **Titanic Survival Analysis**
 
